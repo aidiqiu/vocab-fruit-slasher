@@ -2,8 +2,7 @@
 An interactive English vocabulary learning game built with HTML5 Canvas. Practice your listening and word recognition skills by "slashing" the correct fruits based on real-time voice prompts.
 
 🎮 Live Demo
-(Once you enable GitHub Pages, paste your link here)
-https://your-username.github.io/vocab-fruit-slasher/
+https://emmab20202-cell.github.io/vocab-fruit-slasher/
 
 ✨ Key Features
 Voice-Guided Learning: Integrated Web Speech API (TTS) that reads the target word aloud continuously to reinforce auditory memory.
